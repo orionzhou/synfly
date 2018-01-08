@@ -1,0 +1,43 @@
+name: SYNFLY
+description: SYNFLY
+url: https://orionzhou.github.io/synfly
+
+markdown: kramdown
+permalink: /:categories/:title/
+future: true
+
+sass:
+  style: :compressed 
+
+exclude:
+  - "*.class"
+  - "*.cpp"
+  - "*.h"
+  - "*.hh"
+  - "*.ipynb"
+  - "*.jar"
+  - "*.java"
+  - "*.nb"
+  - "*.py"
+  - "*.R"
+  - "*.rb"
+  - "*.Rmd"
+  - "*.branches"
+  - "*.csv"
+  - "*.fasta"
+  - "*.kml"
+  - "*.log"
+  - "*.mcc"
+  - "*.newick"
+  - "*.nex"
+  - "*.tsv"
+  - "*.tips"
+  - "*.trees"
+  - "*.txt"
+  - "*.zip"
+  - "*.gz"
+  - "*.tiff"
+  - "*.xml"
+  - "Gemfile"
+  - "Gemfile.lock"
+
