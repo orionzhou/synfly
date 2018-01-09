@@ -7,7 +7,6 @@ permalink: /:categories/:title/
 future: true
 
 sass:
-  sass_dir: .
   style: :compressed 
 
 exclude:
